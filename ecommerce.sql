@@ -28,7 +28,6 @@ CREATE TABLE size_category (
     category_name VARCHAR(100) NOT NULL
 );
 
--- tables with reference
 
 -- 5. size_option table
 CREATE TABLE size_option (
